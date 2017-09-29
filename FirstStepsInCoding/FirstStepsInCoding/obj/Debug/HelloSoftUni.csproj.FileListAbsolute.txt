@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Misc\Codes\SoftUni\C#\Programming Basics\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\FirstStepsInCoding.exe.config
+C:\Users\Lenovo\Desktop\Misc\Codes\SoftUni\C#\Programming Basics\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\FirstStepsInCoding.exe
+C:\Users\Lenovo\Desktop\Misc\Codes\SoftUni\C#\Programming Basics\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\FirstStepsInCoding.pdb
+C:\Users\Lenovo\Desktop\Misc\Codes\SoftUni\C#\Programming Basics\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\HelloSoftUni.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Misc\Codes\SoftUni\C#\Programming Basics\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\FirstStepsInCoding.exe
+C:\Users\Lenovo\Desktop\Misc\Codes\SoftUni\C#\Programming Basics\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\FirstStepsInCoding.pdb
